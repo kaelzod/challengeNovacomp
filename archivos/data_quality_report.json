@@ -1,0 +1,37 @@
+{
+    "nulls": {
+        "card_id": 4,
+        "amount": 5,
+        "tx_date": 9,
+        "extra_column": 9
+    },
+    "duplicados": 0,
+    "duplicados_tx_id": 0,
+    "fechas_futuras": 5,
+    "tx_ids_fecha_futura": [
+        9001,
+        9007,
+        9013,
+        9015,
+        9016
+    ],
+    "card_ids_invalidos": 7,
+    "card_ids_invalidos_valores": [
+        "X9999"
+    ],
+    "campos_no_documentados": [
+        "extra_column"
+    ],
+    "montos_negativos": 9,
+    "tx_ids_monto_negativo": [
+        9003,
+        9004,
+        9005,
+        9007,
+        9009,
+        9011,
+        9012,
+        9013,
+        9017
+    ]
+}

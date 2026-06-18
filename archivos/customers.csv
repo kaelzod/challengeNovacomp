@@ -1,0 +1,11 @@
+customer_id,full_name,segment,register_date
+1,Cliente 1,Bronze,2024-01-01
+2,Cliente 2,Gold,2024-01-02
+3,Cliente 3,Bronze,2024-01-03
+4,Cliente 4,Bronze,2024-01-04
+5,Cliente 5,Gold,2024-01-05
+6,Cliente 6,Silver,2024-01-06
+7,Cliente 7,Bronze,2024-01-07
+8,Cliente 8,Silver,2024-01-08
+9,Cliente 9,Bronze,2024-01-09
+10,Cliente 10,Silver,2024-01-10

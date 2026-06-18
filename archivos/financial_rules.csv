@@ -1,0 +1,7 @@
+processor,card_type_raw,interest_rate,commission,insurance_fee,rule_notes
+A,GOLD_A,0.029,12.5,5.0,Tarjetas con beneficios premium
+A,SILVER_A,0.035,10.0,4.0,Tarjetas estándar
+A,BRONZE_A,0.042,8.5,3.5,Tarjetas base
+B,GOLD_B,0.028,11.5,4.5,Producto nuevo — menor tasa
+B,SILVER_B,0.034,9.25,3.75,Estructura similar a A
+B,BRONZE_B,0.04,8.0,3.25,Tarjetas de entrada

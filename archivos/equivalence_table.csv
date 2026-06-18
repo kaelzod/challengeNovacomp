@@ -1,0 +1,6 @@
+attribute,value_processor_a,value_processor_b,value_standard
+card_type,GOLD_A,GOLD_B,GOLD
+card_type,SILVER_A,SILVER_B,SILVER
+card_type,BRONZE_A,BRONZE_B,BRONZE
+status,ACTIVE_A,ENABLED_B,ACTIVE
+status,BLOCKED_A,DISABLED_B,BLOCKED

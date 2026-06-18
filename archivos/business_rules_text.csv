@@ -1,0 +1,5 @@
+rule_id,description
+1,Las tarjetas GOLD_A deben migrarse al producto GOLD_ESTÁNDAR excepto si status es BLOCKED_A.
+2,Toda tarjeta SILVER_B emitida antes de 2020 debe clasificarse como producto LEGACY_SILVER.
+3,"Si una tarjeta BRONZE_A o BRONZE_B supera las 20 transacciones mensuales, aplicar comisión reducida."
+4,"Si el cliente es segmento Gold y tiene al menos 2 tarjetas activas, aplicar beneficio premium."

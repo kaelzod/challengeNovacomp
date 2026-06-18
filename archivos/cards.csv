@@ -1,0 +1,11 @@
+card_id,customer_id,card_type,status
+1001,1,Mastercard,Active
+1002,2,Visa,Active
+1003,3,Visa,Active
+1004,4,Mastercard,Blocked
+1005,5,Mastercard,Active
+1006,6,Mastercard,Blocked
+1007,7,Visa,Active
+1008,8,Visa,Active
+1009,9,Visa,Blocked
+1010,10,Mastercard,Active
